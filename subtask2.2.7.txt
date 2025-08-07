@@ -1,0 +1,17 @@
+On branch manhattan
+Your branch is behind 'origin/manhattan' by 2 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   subtask2.3.1.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	distance
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) kedardalvi@Kedars-MacBook-Air SSD Assignment % git log --oneline
+
+30d5551 (HEAD -> manhattan) Adding the code and subtask txt files
