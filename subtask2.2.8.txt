@@ -1,0 +1,14 @@
+Enumerating objects: 12, done.
+Counting objects: 100% (10/10), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (7/7), 2.09 KiB | 2.09 MiB/s, done.
+Total 7 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+remote: 
+remote: Create a pull request for 'manhattan' on GitHub by visiting:
+remote:      https://github.com/KedarDalvi/Dist/pull/new/manhattan
+remote: 
+To github.com:KedarDalvi/Dist.git
+ * [new branch]      manhattan -> manhattan
+branch 'manhattan' set up to track 'origin/manhattan'.

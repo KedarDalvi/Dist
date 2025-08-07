@@ -1,0 +1,15 @@
+// without --hard option (safe)
+
+
+Unstaged changes after reset:
+M	distance.c
+M	subtask2.1.5.txt
+M	subtask2.2.2.txt
+M	subtask2.2.3.txt
+M	subtask2.2.5.txt
+M	subtask2.2.7.txt
+M	subtask2.2.8.txt
+
+//with --hard option
+
+HEAD is now at 30d5551 Adding the code and subtask txt files
